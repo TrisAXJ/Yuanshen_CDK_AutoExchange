@@ -1,0 +1,12 @@
+{
+  "ext": "",
+  "authkey": "",
+  "headers": {
+    "Host": "hk4e-api.mihoyo.com",
+    "User-Agent": "UnityPlayer/2017.4.30f1 (UnityWebRequest/1.0, libcurl/7.51.0-DEV)",
+    "Accept": "*/*",
+    "Accept-Encoding": "identity",
+    "X-Unity-Version": "2017.4.30f1"
+  },
+  "game_version": "CNRELWin2.8.0_R9182063_S9401797_D9401797"
+}
